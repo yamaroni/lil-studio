@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="lil studio">
+  <!-- "lil" built from shapes: two bars and an oversized dot on the i -->
+  <style>.ink{fill:#18181b}@media (prefers-color-scheme: dark){.ink{fill:#f4f4f5}}</style>
+  <rect class="ink" x="6" y="8" width="11" height="48" rx="5.5"/>
+  <rect class="ink" x="26.5" y="31" width="11" height="25" rx="5.5"/>
+  <circle cx="32" cy="16" r="10" fill="#ff5a36"/>
+  <path d="M47 56V8h1a10 10 0 0 1 10 10v38z" fill="#3b5bdb"/>
+  <rect x="45" y="2" width="7" height="7" rx="1.5" fill="#ffc53d" transform="rotate(20 48.5 5.5)"/>
+</svg>
